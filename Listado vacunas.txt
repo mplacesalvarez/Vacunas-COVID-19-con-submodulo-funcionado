@@ -1,0 +1,3 @@
+Nombre= Pfizer 	Número de dosis disponibles= 100000 	Número de dosis necesarias= 2
+Nombre= Moderna 	Número de dosis disponibles= 100000 	Número de dosis necesarias= 2
+Nombre= AstraZeneca/Oxford 	Número de dosis disponibles= 100000 	Número de dosis necesarias= 2

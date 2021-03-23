@@ -1,0 +1,16 @@
+Nombre= Ramon 	Apellidos= Perez DNI= 34760934I 	Edad= 25	Riesgo= No	Vacuna= Moderna	Número de vacunas inyectadas= 0
+Nombre= Pepa 	Apellidos= Pig 	DNI= 22336349K 	Edad= 3 	Riesgo= Si 	Vacuna= AstraZeneca/Oxford  	Número de vacunas inyectadas= 0
+Nombre= Matilda 	Apellidos= Robles 	DNI= 93845245I 	Edad= 31 	Riesgo= No 	Vacuna= Pfizer 	Número de vacunas inyectadas= 0
+Nombre= Mateo 	Apellidos= Perez 	DNI= 15376459P 	Edad= 23 	Riesgo= No 	Vacuna= Moderna 	Número de vacunas inyectadas= 0
+Nombre= Laura 	Apellidos= Miguelez 	DNI= 22094328S 	Edad= 19 	Riesgo= No 	Vacuna= Pfizer 	Número de vacunas inyectadas= 0
+Nombre= Macarena 	Apellidos= Alonso 	DNI= 20945682D 	Edad= 17 	Riesgo= No 	Vacuna= Pfizer 	Número de vacunas inyectadas= 0
+Nombre= Marcos 	Apellidos= Jimenez 	DNI= 39485762S 	Edad= 19 	Riesgo= Si 	Vacuna= Moderna 	Número de vacunas inyectadas= 0
+Nombre= Lola 	Apellidos= Martinez 	DNI= 22094328S 	Edad= 2 	Riesgo= No 	Vacuna= Moderna 	Número de vacunas inyectadas= 0
+Nombre= Juan 	Apellidos= Gonzalez 	DNI= 32958473H 	Edad= 67 	Riesgo= No 	Vacuna= Moderna 	Número de vacunas inyectadas= 0
+Nombre= Miguel 	Apellidos= Sanchez 	DNI= 29847563A 	Edad= 57 	Riesgo= No 	Vacuna= AstraZeneca/Oxford 	Número de vacunas inyectadas= 0
+Nombre= Pablo 	Apellidos= Alvarez 	DNI= 49384765G 	Edad= 35 	Riesgo= No 	Vacuna= Pfizer 	Número de vacunas inyectadas= 0
+Nombre= Pablo 	Apellidos= Lopez 	DNI= 29485756H 	Edad= 42 	Riesgo= Si 	Vacuna= Pfizer 	Número de vacunas inyectadas= 0
+Nombre= Alberto 	Apellidos= Rodriguez 	DNI= 15437654A 	Edad= 22 	Riesgo= No 	Vacuna= Pfizer 	Número de vacunas inyectadas= 0
+Nombre= Miriam 	Apellidos= Bangueses 	DNI= 29456737H 	Edad= 27 	Riesgo= No 	Vacuna= Pfizer 	Número de vacunas inyectadas= 0
+Nombre= Raul 	Apellidos= Perez 	DNI= 65938467R 	Edad= 58 	Riesgo= Si 	Vacuna= Moderna 	Número de vacunas inyectadas= 0
+Nombre= Luis 	Apellidos= Gil 	DNI= 32984674K 	Edad= 17 	Riesgo= No 	Vacuna= AstraZeneca/Oxford 	Número de vacunas inyectadas= 0
